@@ -14,7 +14,7 @@ permalink: /projects
           <img src="{{post.image}}" alt="" />
         {% endif %}
       </span>
-      <a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
+      <a href="{{ post.url }}">
         <h2>{{ post.title }}</h2>
         <div class="content">
           <p>{{ post.subtitle }}</p>
