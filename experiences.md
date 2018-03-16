@@ -12,7 +12,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>PJX Office Tower by SBC Corporation Bhd.</h2>
       <span class="image fit">
-        <img data-src="/images/pjx-office-tower/pic01.jpg" alt="PJX Office Tower by SBC Corporation Bhd." />
+        <img data-src="images/pjx-office-tower/pic01.jpg" alt="PJX Office Tower by SBC Corporation Bhd." />
       </span>
       <p>
         A 34 storey Grade A office tower within the core of Petaling Jaya. Involved during the superstructure 
@@ -34,7 +34,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Semi-Detached renovation at Damansara Jaya</h2>
       <span class="image fit">
-        <img data-src="/images/semi-detached-renovation/pic01.jpg" alt="Semi-Detached renovation at Damansara Jaya" />
+        <img data-src="images/semi-detached-renovation/pic01.jpg" alt="Semi-Detached renovation at Damansara Jaya" />
       </span>
       <p>
         Design & Project Architect from inception up to DO & BP submission stage.
@@ -55,7 +55,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>KL Eco City by SP Setia Bhd.</h2>
       <span class="image fit">
-        <img data-src="/images/kl-eco-city/pic01.jpg" alt="Semi-Detached renovation at Damansara Jaya" />
+        <img data-src="images/kl-eco-city/pic01.jpg" alt="Semi-Detached renovation at Damansara Jaya" />
       </span>
       <p>
         Mixed Development consists of 4 office towers, 12 boutique offices, 3 serviced apartments, a hotel & retail
@@ -77,7 +77,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Mosque by NAZA TTDI Sdn Bhd.</h2>
       <span class="image fit">
-        <img data-src="/images/mosque/pic01.jpg" alt="Mosque by NAZA TTDI Sdn Bhd." />
+        <img data-src="images/mosque/pic01.jpg" alt="Mosque by NAZA TTDI Sdn Bhd." />
       </span>
       <p>
         Section 13, Shah Alam.
@@ -98,7 +98,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Alor Star Mall by Boustead</h2>
       <span class="image fit">
-        <img data-src="/images/alor-star-mall/pic01.jpg" alt="Alor Star Mall by Boustead" />
+        <img data-src="images/alor-star-mall/pic01.jpg" alt="Alor Star Mall by Boustead" />
       </span>
       <p>
         Proposal.
@@ -119,7 +119,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>One Federal Hill Mixed Dev. by SP Setia Bhd.</h2>
       <span class="image fit">
-        <img data-src="/images/one-federal-hill/pic01.jpg" alt="One Federal Hill Mixed Dev. by SP Setia Bhd." />
+        <img data-src="images/one-federal-hill/pic01.jpg" alt="One Federal Hill Mixed Dev. by SP Setia Bhd." />
       </span>
       <p>
         Proposal
@@ -140,7 +140,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Affordable Housing by SP Setia Bhd.</h2>
       <span class="image fit">
-        <img data-src="/images/affordable-housing/pic01.jpg" alt="Affordable Housing by SP Setia Bhd." />
+        <img data-src="images/affordable-housing/pic01.jpg" alt="Affordable Housing by SP Setia Bhd." />
       </span>
       <p>
         Proposal
@@ -161,7 +161,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Gated-Guarded Landed Housing in Setia Eco-Park by SP Setia Bhd.</h2>
       <span class="image fit">
-        <img data-src="/images/gated-guarded-landed-housing/pic01.jpg" alt="Gated-Guarded Landed Housing in Setia Eco-Park by SP Setia Bhd." />
+        <img data-src="images/gated-guarded-landed-housing/pic01.jpg" alt="Gated-Guarded Landed Housing in Setia Eco-Park by SP Setia Bhd." />
       </span>
       <p>
         Worked on 8 units bungalows for Phase 8, 27 units semi-detached & bungalows for Phase 10. Contract value RM18 
@@ -183,7 +183,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Landed Terrace Housing in Setia Alam by SP Setia Bhd.</h2>
       <span class="image fit">
-        <img data-src="/images/landed-terrace-housing/pic01.jpg" alt="Landed Terrace Housing in Setia Alam by SP Setia Bhd." />
+        <img data-src="images/landed-terrace-housing/pic01.jpg" alt="Landed Terrace Housing in Setia Alam by SP Setia Bhd." />
       </span>
       <p>
         125 units terrace houses. Contract value RM25 mil.
@@ -204,7 +204,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Rimbayu Show Village & Clubhouse in Kota Kemnuning by IJM Land Bhd.</h2>
       <span class="image fit">
-        <img data-src="/images/rimbayu-show-village-and-clubhouse/pic01.jpg" alt="Rimbayu Show Village & Clubhouse in Kota Kemnuning by IJM Land Bhd." />
+        <img data-src="images/rimbayu-show-village-and-clubhouse/pic01.jpg" alt="Rimbayu Show Village & Clubhouse in Kota Kemnuning by IJM Land Bhd." />
       </span>
       <p>
         Involved in the schematic up to authority submission stage.
@@ -225,7 +225,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Integrated Commercial Complex (ICC) in KL by 1Malaysia Development Bhd joint venture with DBKL</h2>
       <span class="image fit">
-        <img data-src="/images/integrated-commercial-complex/thumbnail.jpg" alt="Integrated Commercial Complex (ICC) in KL by 1Malaysia Development Bhd joint venture with DBKL" />
+        <img data-src="images/integrated-commercial-complex/thumbnail.jpg" alt="Integrated Commercial Complex (ICC) in KL by 1Malaysia Development Bhd joint venture with DBKL" />
       </span>
       <p>
         A relocation project of Pasar Baru Bukit Bintang, to allow for TRX development. Contract value of RM60 mil.
@@ -246,7 +246,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Tamarind Square in Cyberjaya by Tujuan Gemilang Sdn Bhd</h2>
       <span class="image fit">
-        <img data-src="/images/tamarind-square/thumbnail.jpg" alt="Tamarind Square" />
+        <img data-src="images/tamarind-square/thumbnail.jpg" alt="Tamarind Square" />
       </span>
       <p>
         A commercial development comprising retail, offices & a serviced apartment block. A new architectural approach 
@@ -268,7 +268,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Nursery in KL Sentral by Brainy Bunch Sdn Bhd.</h2>
       <span class="image fit">
-        <img data-src="/images/nursery/pic01.jpg" alt="Nursery in KL Sentral" />
+        <img data-src="images/nursery/pic01.jpg" alt="Nursery in KL Sentral" />
       </span>
       <p>
         A stand alone nursery building right in the center of KL Sentral. Promoting urban welfare right in the city 
@@ -290,7 +290,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Surau Rimbayu in Kota Kemuning by IJM Land Bhd</h2>
       <span class="image fit">
-        <img data-src="/images/surau-rimbayu/pic01.jpg" alt="Surau Rimbayu in Kota Kemuning by IJM Land Bhd" />
+        <img data-src="images/surau-rimbayu/pic01.jpg" alt="Surau Rimbayu in Kota Kemuning by IJM Land Bhd" />
       </span>
       <p>
         Proposal for a community musolla within the community of Rimbayu residents.
@@ -311,7 +311,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Renovation of UNITEN Entrance in Bangi by UNITEN</h2>
       <span class="image fit">
-        <img data-src="/images/uniten-entrance-renovation/pic01.jpg" alt="Renovation of UNITEN Entrance in Bangi by UNITEN" />
+        <img data-src="images/uniten-entrance-renovation/pic01.jpg" alt="Renovation of UNITEN Entrance in Bangi by UNITEN" />
       </span>
       <p>
         Tender RFP in collaboration with MZD Arkitek Sdn Bhd.
@@ -332,7 +332,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Beach House in Marang, Terengganu</h2>
       <span class="image fit">
-        <img data-src="/images/beach-house/thumbnail.jpg" alt="Beach House in Marang, Terengganu" />
+        <img data-src="images/beach-house/thumbnail.jpg" alt="Beach House in Marang, Terengganu" />
       </span>
       <p>
         A modern interpretation of the traditional Terengganu house for a holiday retreat experience.
@@ -353,7 +353,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Landed Strata & Mixed Development in Cyberjaya by Raudhah City Sdn Bhd</h2>
       <span class="image fit">
-        <img data-src="/images/landed-strata-and-mixed-development/pic01.jpg" alt="Landed Strata & Mixed Development in Cyberjaya by Raudhah City Sdn Bhd" />
+        <img data-src="images/landed-strata-and-mixed-development/pic01.jpg" alt="Landed Strata & Mixed Development in Cyberjaya by Raudhah City Sdn Bhd" />
       </span>
       <p>
         Masterplan proposal.
@@ -374,7 +374,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Kindergarten in Ampang by Brainy Bunch Sdn Bhd</h2>
       <span class="image fit">
-        <img data-src="/images/brainy-bunch-montessori-kindergarten/thumbnail.jpg" alt="Landed Strata & Mixed Development in Cyberjaya by Raudhah City Sdn Bhd" />
+        <img data-src="images/brainy-bunch-montessori-kindergarten/thumbnail.jpg" alt="Landed Strata & Mixed Development in Cyberjaya by Raudhah City Sdn Bhd" />
       </span>
       <p>
         Brainy Bunch’s first purpose built kindergarten in Malaysia.
@@ -395,7 +395,7 @@ permalink: /experiences
     <div class="cd-timeline-content">
       <h2>Bungalow in Putrajaya</h2>
       <span class="image fit">
-        <img data-src="/images/bungalow/pic01.jpg" alt="Bungalow in Putrajaya" />
+        <img data-src="images/bungalow/pic01.jpg" alt="Bungalow in Putrajaya" />
       </span>
       <p>
         Multi-family intended living.

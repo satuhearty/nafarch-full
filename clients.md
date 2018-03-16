@@ -20,7 +20,7 @@ permalink: /clients
         </div>
         <div class="4u$ 12u$(small) important(small)">
           <span class="image fit">
-            <img src="/images/clients/sp-setia-bhd.png" class="clients-image" alt="SP SETIA BHD." />
+            <img src="images/clients/sp-setia-bhd.png" class="clients-image" alt="SP SETIA BHD." />
           </span>
         </div>
       </div>
@@ -34,7 +34,7 @@ permalink: /clients
         </div>
         <div class="4u$ 12u$(small) important(small)">
           <span class="image fit">
-            <img src="/images/clients/naza-ttdi-sdn-bhd.png" class="clients-image" alt="NAZA TTDI SDN. BHD." />
+            <img src="images/clients/naza-ttdi-sdn-bhd.png" class="clients-image" alt="NAZA TTDI SDN. BHD." />
           </span>
         </div>
       </div>
@@ -48,7 +48,7 @@ permalink: /clients
         </div>
         <div class="4u$ 12u$(small) important(small)">
           <span class="image fit">
-            <img src="/images/clients/ijm-land-bhd.png" class="clients-image" alt="IJM LAND BHD." />
+            <img src="images/clients/ijm-land-bhd.png" class="clients-image" alt="IJM LAND BHD." />
           </span>
         </div>
       </div>
@@ -61,7 +61,7 @@ permalink: /clients
         </div>
         <div class="4u$ 12u$(small) important(small)">
           <span class="image fit">
-            <img src="/images/clients/boustead-properties-bhd.png" class="clients-image" alt="BOUSTEAD PROPERTIES BHD." />
+            <img src="images/clients/boustead-properties-bhd.png" class="clients-image" alt="BOUSTEAD PROPERTIES BHD." />
           </span>
         </div>
       </div>
@@ -74,7 +74,7 @@ permalink: /clients
         </div>
         <div class="4u$ 12u$(small) important(small)">
           <span class="image fit">
-            <img src="/images/clients/sbc-corporation-bhd.png" class="clients-image" alt="SBC CORPORATION BHD." />
+            <img src="images/clients/sbc-corporation-bhd.png" class="clients-image" alt="SBC CORPORATION BHD." />
           </span>
         </div>
       </div>
@@ -87,7 +87,7 @@ permalink: /clients
         </div>
         <div class="4u$ 12u$(small) important(small)">
           <span class="image fit">
-            <img src="/images/clients/tujuan-gemilang-sdn-bhd.png" class="clients-image" alt="TUJUAN GEMILANG SDN. BHD." />
+            <img src="images/clients/tujuan-gemilang-sdn-bhd.png" class="clients-image" alt="TUJUAN GEMILANG SDN. BHD." />
           </span>
         </div>
       </div>
@@ -100,7 +100,7 @@ permalink: /clients
         </div>
         <div class="4u$ 12u$(small) important(small)">
           <span class="image fit">
-            <img src="/images/clients/dewan-bandaraya-kuala-lumpur.png" class="clients-image" alt="DEWAN BANDARAYA KUALA LUMPUR" />
+            <img src="images/clients/dewan-bandaraya-kuala-lumpur.png" class="clients-image" alt="DEWAN BANDARAYA KUALA LUMPUR" />
           </span>
         </div>
       </div>
@@ -112,7 +112,7 @@ permalink: /clients
       <div class="row clients-container">
         <div class="4u 12u$(small)">
           <span class="image fit">
-            <img src="/images/clients/brainy-bunch-sdn-bhd.png" class="clients-image" />
+            <img src="images/clients/brainy-bunch-sdn-bhd.png" class="clients-image" />
           </span>
         </div>
         <div class="8u$ 12u$(small) clients-section-right">
@@ -127,7 +127,7 @@ permalink: /clients
       <div class="row clients-container">
         <div class="4u 12u$(small)">
           <span class="image fit">
-            <img src="/images/clients/raudhah-city-sdn-bhd.png" class="clients-image" />
+            <img src="images/clients/raudhah-city-sdn-bhd.png" class="clients-image" />
           </span>
         </div>
         <div class="8u$ 12u$(small) clients-section-right">
