@@ -10,7 +10,7 @@ categories: featured
 
 <section>
   <h4>
-    <a href="projects">Projects</a> / {{page.title}}
+    <a href="{{ site.baseurl }}/projects">Projects</a> / {{page.title}}
   </h4>
   <h1 class="header">{{page.title}}</h1>
   <div class="row">
