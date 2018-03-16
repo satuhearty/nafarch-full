@@ -11,7 +11,7 @@ permalink: /projects
         {% if post.image == null %}
           <img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
         {% else %}
-          <img src="{{ post.image }}" alt="" />
+          <img src="{{ site.baseurl }}{{ post.image }}" alt="" />
         {% endif %}
       </span>
       <a href="{{ site.baseurl }}{{ post.url }}">
