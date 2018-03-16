@@ -11,10 +11,10 @@ permalink: /projects
         {% if post.image == null %}
           <img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
         {% else %}
-          <img src="{{post.image}}" alt="" />
+          <img src="{{ post.image }}" alt="" />
         {% endif %}
       </span>
-      <a href="{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         <h2>{{ post.title }}</h2>
         <div class="content">
           <p>{{ post.subtitle }}</p>
