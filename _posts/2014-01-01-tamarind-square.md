@@ -2,7 +2,7 @@
 layout: default
 title: "Tamarind Square"
 subtitle: "By Tujuan Gemilang Sdn Bhd"
-image: /images/tamarind-square/thumbnail.jpg
+image: images/tamarind-square/thumbnail.jpg
 date: 2014-01-01 12:00:00 -0400
 permalink: /projects/:title
 categories: featured
@@ -15,31 +15,31 @@ categories: featured
   <h1 class="header">{{page.title}}</h1>
   <div class="row">
     <div class="8u 12u$(medium)">
-      <span class="image fit"><img data-src="/images/tamarind-square/pic01.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic02.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic03.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic04.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic05.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic06.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic07.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic08.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic09.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic10.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic11.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic12.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic13.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic14.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic15.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic16.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic17.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic18.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic19.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic20.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic21.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic22.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic23.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic24.jpg" alt="" /></span>
-      <span class="image fit"><img data-src="/images/tamarind-square/pic25.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic01.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic02.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic03.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic04.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic05.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic06.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic07.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic08.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic09.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic10.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic11.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic12.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic13.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic14.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic15.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic16.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic17.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic18.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic19.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic20.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic21.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic22.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic23.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic24.jpg" alt="" /></span>
+      <span class="image fit"><img data-src="images/tamarind-square/pic25.jpg" alt="" /></span>
     </div>
     <div class="4u$ 12u$(medium) important(medium)">
       <p>
