@@ -4,7 +4,7 @@ title: "PJX Office Tower"
 subtitle: "By SBC Corporation Bhd"
 image: images/pjx-office-tower/thumbnail.jpg
 date: 2009-08-01 12:00:00 -0400
-permalink: /projects/:title
+permalink: projects/:title
 categories: jekyll update
 ---
 

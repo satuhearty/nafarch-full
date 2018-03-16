@@ -4,7 +4,7 @@ title: "Semi-Detached Renovation"
 subtitle: "@ Damansara Jaya"
 image: images/semi-detached-renovation/thumbnail.jpg
 date: 2009-09-01 12:00:00 -0400
-permalink: /projects/:title
+permalink: projects/:title
 categories: jekyll update
 ---
 

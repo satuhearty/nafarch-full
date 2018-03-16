@@ -4,7 +4,7 @@ title: "Integrated Commercial Complex (ICC)"
 subtitle: "Kuala Lumpur"
 image: images/integrated-commercial-complex/thumbnail.jpg
 date: 2013-12-01 12:00:00 -0400
-permalink: /projects/:title
+permalink: projects/:title
 categories: featured
 ---
 

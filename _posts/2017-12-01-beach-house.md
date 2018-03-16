@@ -4,7 +4,7 @@ title: "Beach House"
 subtitle: Schematic Stage
 image: images/beach-house/thumbnail.jpg
 date: 2017-12-01 12:00:00 -0400
-permalink: /projects/:title
+permalink: projects/:title
 categories: featured
 ---
 

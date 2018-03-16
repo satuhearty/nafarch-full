@@ -4,7 +4,7 @@ title: "KL Eco City"
 subtitle: "By SP Setia Bhd"
 image: images/kl-eco-city/thumbnail.jpg
 date: 2009-12-01 12:00:00 -0400
-permalink: /projects/:title
+permalink: projects/:title
 categories: featured
 ---
 

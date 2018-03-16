@@ -4,7 +4,7 @@ title: "Tamarind Square"
 subtitle: "By Tujuan Gemilang Sdn Bhd"
 image: images/tamarind-square/thumbnail.jpg
 date: 2014-01-01 12:00:00 -0400
-permalink: /projects/:title
+permalink: projects/:title
 categories: featured
 ---
 
