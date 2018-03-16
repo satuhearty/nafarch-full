@@ -1,0 +1,25 @@
+# Site settings
+title: NAF Architect
+email: info@nafarch.com
+description: The Jekyll version of the Phantom theme by HTML5 UP.
+baseurl: "/nafarch-full" # the subpath of your site, e.g. /blog
+url: "satuhearty.github.io" # the base hostname & protocol for your site
+
+# Logo settings
+logo-image-url: images/nafarch-logo.png
+font-awesome-icon-logo:
+
+# Social settings
+github_username:
+twitter_username:
+facebook_URL: nafarch
+instagram_username: nafarch
+dribbble_username:
+500px_username:
+phone: +60173232024
+
+# Build settings
+markdown: kramdown
+
+# Layout settings
+home-link-in-menu: yes

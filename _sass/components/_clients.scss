@@ -1,0 +1,32 @@
+
+.clients {
+  &-container {
+    background-color: rgba(49, 71, 95, .9);
+    color: _palette(bg);
+    padding: 2em 2em 0 1em;
+    border-radius: 10px;
+    margin: 2em 0.1em;
+  }
+  &-image {
+    max-width: 90%;
+    padding-top: 25%;
+    margin: 0 auto;
+  }
+  &-section {
+    &-header {
+      text-align: center;
+    }
+    &-right {
+      text-align: right;
+    }
+  }
+}
+
+@include breakpoint(small) {
+  .clients {
+    &-image {
+      max-width: 50%;
+      padding-top: 0;
+    }
+  }
+}
