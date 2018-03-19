@@ -18,3 +18,24 @@
 .address-info {
   padding: 2em;
 }
+
+.certificate {
+  position: relative;
+  &-description {
+    color: _palette(bg);
+    padding: 1em;
+    position: absolute;
+    width: 60%;
+    bottom: 3em;
+    background-color: rgba(49, 71, 95, 0.8);
+    h4 {
+      margin: 0 0 1em 0;
+    }
+    p {
+      margin: 0;
+    }
+    &.right {
+      right: 0;
+    }
+  }
+}

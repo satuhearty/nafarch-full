@@ -24,9 +24,17 @@
 
 @include breakpoint(small) {
   .clients {
+    &-container {
+      text-align: center;
+    }
     &-image {
-      max-width: 50%;
+      max-width: 40%;
       padding-top: 0;
+    }
+    &-section {
+      &-right {
+        text-align: center;
+      }
     }
   }
 }

@@ -1,9 +1,29 @@
 <head>
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <title>{{ site.title | escape }} | {{ page.title | escape }}</title>
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="keywords" content="Nik Amirul Faiz, Architect, Architecture, NAF" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@nafarch">
+    <meta name="twitter:creator" content="@nafarch">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:url" content="nafarch.com">
+    <meta name="twitter:image:src" content="nafarch.com/assets/images/nafarch-icon.jpg">
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:image" content="nafarch.com/assets/images/nafarch-icon.jpg">
+    <meta property="og:image:secure_url" content="nafarch.com/assets/images/nafarch-icon.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:video:width" content="400" />
+    <meta property="og:video:height" content="300" />
+    <meta property="og:url" content="nafarch.com" />
+    <meta property="og:type" content="website"/>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
     <link rel="stylesheet" href="{{ "/assets/css/main.css " | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
 </head>

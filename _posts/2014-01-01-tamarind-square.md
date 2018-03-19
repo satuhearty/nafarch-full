@@ -1,18 +1,14 @@
 ---
-layout: default
+layout: work
 title: "Tamarind Square"
 subtitle: "By Tujuan Gemilang Sdn Bhd"
 image: /images/tamarind-square/thumbnail.jpg
 date: 2014-01-01 12:00:00 -0400
 permalink: projects/:title
-categories: featured
+categories: experiences
 ---
 
 <section>
-  <h4>
-    <a href="{{ site.baseurl }}/projects">Projects</a> / {{page.title}}
-  </h4>
-  <h1 class="header">{{page.title}}</h1>
   <div class="row">
     <div class="8u 12u$(medium)">
       <span class="image fit"><img data-src="{{ site.baseurl }}/images/tamarind-square/pic01.jpg" alt="" /></span>

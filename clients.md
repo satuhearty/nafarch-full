@@ -18,7 +18,7 @@ permalink: /clients
             2011, 2013 &middot; WINNER The Edge Top Property Developers Awards 2012, 2013, 2015
           </p>
         </div>
-        <div class="4u$ 12u$(small) important(small)">
+        <div class="4u$ 12u$(small) important(medium)">
           <span class="image fit">
             <img src="images/clients/sp-setia-bhd.png" class="clients-image" alt="SP SETIA BHD." />
           </span>
@@ -32,7 +32,7 @@ permalink: /clients
             2011 &middot; Green Building Index Awards 2011 &middot; Asia Pacific Property Awards 2010
           </p>
         </div>
-        <div class="4u$ 12u$(small) important(small)">
+        <div class="4u$ 12u$(small) important(medium)">
           <span class="image fit">
             <img src="images/clients/naza-ttdi-sdn-bhd.png" class="clients-image" alt="NAZA TTDI SDN. BHD." />
           </span>
@@ -46,7 +46,7 @@ permalink: /clients
             Top 10 Developer Awards 2015 &middot; Property Insight Malaysia's Prestigious Developer Awards (PIPDA) 2015
           </p>
         </div>
-        <div class="4u$ 12u$(small) important(small)">
+        <div class="4u$ 12u$(small) important(medium)">
           <span class="image fit">
             <img src="images/clients/ijm-land-bhd.png" class="clients-image" alt="IJM LAND BHD." />
           </span>
@@ -59,7 +59,7 @@ permalink: /clients
             EDGE Award 2008 &middot; EDGE Award 2007 &middot; EDGE Award 2005 &middot; EDGE Award 2004
           </p>
         </div>
-        <div class="4u$ 12u$(small) important(small)">
+        <div class="4u$ 12u$(small) important(medium)">
           <span class="image fit">
             <img src="images/clients/boustead-properties-bhd.png" class="clients-image" alt="BOUSTEAD PROPERTIES BHD." />
           </span>
@@ -72,7 +72,7 @@ permalink: /clients
             PJX Office Tower as iconic building in PJ.
           </p>
         </div>
-        <div class="4u$ 12u$(small) important(small)">
+        <div class="4u$ 12u$(small) important(medium)">
           <span class="image fit">
             <img src="images/clients/sbc-corporation-bhd.png" class="clients-image" alt="SBC CORPORATION BHD." />
           </span>
@@ -85,7 +85,7 @@ permalink: /clients
             IAIR AWARDS 2014, 2015 Winner - Best Company for Leadership, Property Development, South East Asia
           </p>
         </div>
-        <div class="4u$ 12u$(small) important(small)">
+        <div class="4u$ 12u$(small) important(medium)">
           <span class="image fit">
             <img src="images/clients/tujuan-gemilang-sdn-bhd.png" class="clients-image" alt="TUJUAN GEMILANG SDN. BHD." />
           </span>
@@ -98,7 +98,7 @@ permalink: /clients
             ICC Development joint venture with 1MDB
           </p>
         </div>
-        <div class="4u$ 12u$(small) important(small)">
+        <div class="4u$ 12u$(small) important(medium)">
           <span class="image fit">
             <img src="images/clients/dewan-bandaraya-kuala-lumpur.png" class="clients-image" alt="DEWAN BANDARAYA KUALA LUMPUR" />
           </span>
@@ -141,9 +141,9 @@ permalink: /clients
       </div>
       <div class="row clients-container">
         <div class="4u 12u$(small)">
-          <h2>
+          <h1>
             GROW
-          </h2>
+          </h1>
         </div>
         <div class="8u$ 12u$(small) clients-section-right">
           <h3>PERSONAL CLIENTS & MORE</h3>

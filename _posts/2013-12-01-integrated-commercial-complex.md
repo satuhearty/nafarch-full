@@ -1,18 +1,14 @@
 ---
-layout: default
+layout: work
 title: "Integrated Commercial Complex (ICC)"
 subtitle: "Kuala Lumpur"
 image: /images/integrated-commercial-complex/thumbnail.jpg
 date: 2013-12-01 12:00:00 -0400
 permalink: projects/:title
-categories: featured
+categories: experiences
 ---
 
 <section>
-  <h4>
-    <a href="{{ site.baseurl }}/projects">Projects</a> / {{page.title}}
-  </h4>
-  <h1 class="header">{{page.title}}</h1>
   <div class="row">
     <div class="8u 12u$(medium)">
       <span class="image fit"><img data-src="{{ site.baseurl }}/images/integrated-commercial-complex/pic01.jpg" alt="" /></span>

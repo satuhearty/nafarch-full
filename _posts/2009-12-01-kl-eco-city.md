@@ -1,18 +1,14 @@
 ---
-layout: default
+layout: work
 title: "KL Eco City"
 subtitle: "By SP Setia Bhd"
 image: /images/kl-eco-city/thumbnail.jpg
 date: 2009-12-01 12:00:00 -0400
 permalink: projects/:title
-categories: featured
+categories: experiences
 ---
 
 <section>
-  <h4>
-    <a href="{{ site.baseurl }}/projects">Projects</a> / {{page.title}}
-  </h4>
-  <h1 class="header">{{page.title}}</h1>
   <div class="row">
     <div class="8u 12u$(medium)">
       <span class="image fit"><img data-src="{{ site.baseurl }}/images/kl-eco-city/pic01.jpg" alt="" /></span>

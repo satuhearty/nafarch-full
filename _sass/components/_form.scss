@@ -57,6 +57,43 @@
 				margin: 0 0 (_size(element-margin) * 0.65) 0;
 			}
 		}
+
+		.message {
+			@include icon;
+			@include vendor('transition', (
+				'opacity #{_duration(transition)} ease-in-out',
+				'transform #{_duration(transition)} ease-in-out'
+			));
+			@include vendor('transform', 'scale(1.05)');
+			height: _size(element-height);
+			line-height: _size(element-height);
+			opacity: 0;
+
+			&:before {
+				margin-right: 0.5em;
+			}
+
+			&.visible {
+				@include vendor('transform', 'scale(1)');
+				opacity: 1;
+			}
+
+			&.success {
+				color: _palette(fg);
+
+				&:before {
+					content: '\f00c';
+				}
+			}
+
+			&.failure {
+				color: _palette(accent4);
+
+				&:before {
+					content: '\f119';
+				}
+			}
+		}
 	}
 
 	label {

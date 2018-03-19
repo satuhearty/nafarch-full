@@ -16,6 +16,7 @@ permalink: /profile
         Founded by the principal, Ar. Nik Amirul Faiz in 2018. Main goal is to become a successful architect firm and
         contribute to the well being of the society through our architectural expertise; guided by principles & ethics.
       </p>
+      <a href="assets/documents/CV.pdf" class="button special fit">Download CV</a>
     </div>
   </div>
 </section>
@@ -60,4 +61,32 @@ permalink: /profile
   <p>
     <strong>Once piece at a time.</strong>
   </p>
+</section>
+
+<section style="margin-top: 2em;">
+  <h2 class="align-center">Certificates</h2>
+  <div class="row">
+    <div class="6u 12u$(small) certificate">
+      <span class="image fit shadow">
+        <img data-src="images/certificate01.jpg" alt="Architect Registration" />
+      </span>
+      <div class="certificate-description">
+        <h4>Architect Registration</h4>
+        <p>
+          Registrered Architect with Lembaga Arkitek Malaysia (LAM)
+        </p>
+      </div>
+    </div>
+    <div class="6u$ 12u$(small) certificate">
+      <span class="image fit shadow">
+        <img data-src="images/certificate02.jpg" alt="Sole Proprietorship Registration" />
+      </span>
+      <div class="certificate-description right">
+        <h4>Sole Proprietorship Registration</h4>
+        <p>
+          Registered Practice with Lembaga Arkitek Malaysia (LAM)
+        </p>
+      </div>
+    </div>
+  </div>
 </section>

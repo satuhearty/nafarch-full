@@ -125,6 +125,11 @@
 				text-align: center;
 				margin-top: 35%;
 			}
+			@include breakpoint(small) {
+				&.see-all {
+					margin-top: 10%;
+				}
+			}
 		}
 
 		&.style1 {

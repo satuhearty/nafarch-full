@@ -32,7 +32,7 @@ permalink: /contact
 
 <section style="margin-top: 4em;">
   <h2 class="align-center">Get in touch</h2>
-  <form method="post" action="https://formspree.io/{{ site.email }}" method="POST">
+  <form id="contact-form" method="post" action="https://formspree.io/nikamirulmukmeen@gmail.com">
     <div class="field half first">
       <input type="text" name="firstname" id="firstname" placeholder="First Name *" />
     </div>
@@ -40,18 +40,18 @@ permalink: /contact
       <input type="text" name="lastname" id="lastname" placeholder="Last Name *" />
     </div>
     <div class="field half first">
-      <input type="email" name="_replyto" id="email" placeholder="Email *" />
+      <input type="email" name="email" id="email" placeholder="Email *" />
     </div>
     <div class="field half">
       <input type="text" name="phone" id="phone" placeholder="Phone" />
     </div>
     <div class="field">
-      <textarea name="message" id="message" placeholder="Message"></textarea>
+      <textarea id="message" name="message" placeholder="Message"></textarea>
     </div>
-    <ul class="actions">
-      <li>
-        <input type="submit" value="Send" class="special" />
-      </li>
-    </ul>
+    <input type="submit" value="Send" class="special" />
+    <input type="hidden" name="_subject" value="Contact NAF Arch" />
+    <input type="hidden" name="_next" value="{{ site.url }}{{ site.baseurl }}/contact?submitted=true" />
+    <input type="hidden" name="_language" value="en" />
+    <input type="text" name="_gotcha" style="display:none" />
   </form>
 </section>

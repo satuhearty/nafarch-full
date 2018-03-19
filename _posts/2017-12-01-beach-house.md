@@ -1,18 +1,14 @@
 ---
-layout: default
+layout: work
 title: "Beach House"
 subtitle: Schematic Stage
 image: /images/beach-house/thumbnail.jpg
 date: 2017-12-01 12:00:00 -0400
 permalink: projects/:title
-categories: featured
+categories: works featured
 ---
 
 <section>
-  <h4>
-    <a href="{{ site.baseurl }}/projects">Projects</a> / {{page.title}}
-  </h4>
-  <h1 class="header">{{page.title}}</h1>
   <div class="row">
     <div class="8u 12u$(medium)">
       <span class="image fit"><img src="{{ site.baseurl }}/images/beach-house/pic01.jpg" alt="" /></span>
@@ -24,7 +20,7 @@ categories: featured
       <span class="image fit"><img src="{{ site.baseurl }}/images/beach-house/pic07.jpg" alt="" /></span>
       <span class="image fit"><img src="{{ site.baseurl }}/images/beach-house/pic08.jpg" alt="" /></span>
     </div>
-    <div class="4u$ 12u$(medium)">
+    <div class="4u$ 12u$(medium) important(medium)">
       <p>
         Located in Marang, Terengganu, this client had a specific brief of home retreat to cater for extended family
         living. And it so happens to be that their interest also revolves around the Malay traditional house.
