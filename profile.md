@@ -33,7 +33,7 @@ permalink: /profile
       </blockquote>
     </div>
     <div class="8u$ 12u$(small)">
-      <span class="image fit"><img data-src="images/philosophy.jpg" alt="NAFarch Philosophy"></span>
+      <span class="image fit"><img src="images/philosophy.jpg" alt="NAFarch Philosophy"></span>
     </div>
   </div>
   <p>
@@ -68,7 +68,7 @@ permalink: /profile
   <div class="row">
     <div class="6u 12u$(small) certificate">
       <span class="image fit shadow">
-        <img data-src="images/certificate01.jpg" alt="Architect Registration" />
+        <img src="images/certificate01.jpg" alt="Architect Registration" />
       </span>
       <div class="certificate-description">
         <h4>Architect Registration</h4>
@@ -79,7 +79,7 @@ permalink: /profile
     </div>
     <div class="6u$ 12u$(small) certificate">
       <span class="image fit shadow">
-        <img data-src="images/certificate02.jpg" alt="Sole Proprietorship Registration" />
+        <img src="images/certificate02.jpg" alt="Sole Proprietorship Registration" />
       </span>
       <div class="certificate-description right">
         <h4>Sole Proprietorship Registration</h4>

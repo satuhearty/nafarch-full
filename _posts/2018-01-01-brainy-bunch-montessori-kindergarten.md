@@ -19,7 +19,7 @@ categories: works featured
       <span class="image fit"><img src="{{ site.baseurl }}/images/brainy-bunch-montessori-kindergarten/pic06.jpg" alt="" /></span>
       <span class="image fit"><img src="{{ site.baseurl }}/images/brainy-bunch-montessori-kindergarten/pic07.jpg" alt="" /></span>
     </div>
-    <div class="4u$ 12u$(medium)">
+    <div class="4u$ 12u$(medium) important(medium)">
       <p>
         Brainy Bunch has gotten a long way since its early years in 2010. They have expanded throughout Malaysia & had
         been operating mainly in shoplots & rented bungalows. Starting 2018 onwards, they plan to build purpose built

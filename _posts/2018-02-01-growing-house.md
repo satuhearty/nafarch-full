@@ -17,7 +17,7 @@ categories: works featured
       <span class="image fit"><img src="{{ site.baseurl }}/images/growing-house/pic04.jpg" alt="" /></span>
       <span class="image fit"><img src="{{ site.baseurl }}/images/growing-house/pic05.jpg" alt="" /></span>
     </div>
-    <div class="4u$ 12u$(medium)">
+    <div class="4u$ 12u$(medium) important(medium)">
       <blockquote>
         “The metaphor of life is rooted in architecture. To be born, to grow, to be, is an architectural experience.” 
         <br />

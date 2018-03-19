@@ -16,7 +16,7 @@ categories: works featured
       <span class="image fit"><img src="{{ site.baseurl }}/images/raudhah-city/pic03.jpg" alt="" /></span>
       <span class="image fit"><img src="{{ site.baseurl }}/images/raudhah-city/pic04.jpg" alt="" /></span>
     </div>
-    <div class="4u$ 12u$(medium)">
+    <div class="4u$ 12u$(medium) important(medium)">
       <p>
         This masterplan proposal targets to develop a community revolved around education. With Brainy Bunch 
         International School being the catalyst, the idea is that the Brainy Bunch community could live in close 
