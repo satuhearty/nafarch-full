@@ -50,7 +50,7 @@ permalink: /contact
     </div>
     <input type="submit" value="Send" class="special" />
     <input type="hidden" name="_subject" value="Contact NAF Arch" />
-    <input type="hidden" name="_next" value="contact?submitted=true" />
+    <input type="hidden" name="_next" value="{{ site.baseurl }}/contact?submitted=true" />
     <input type="hidden" name="_language" value="en" />
     <input type="text" name="_gotcha" style="display:none" />
   </form>
