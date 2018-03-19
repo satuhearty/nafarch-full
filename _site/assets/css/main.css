@@ -2563,7 +2563,7 @@ button,
     -o-transform: translateX(0);
     transform: translateX(0); } }
 .clients-container {
-  background-color: rgba(49, 71, 95, 0.9);
+  background-color: rgba(49, 71, 95, 0.85);
   color: #ffffff;
   padding: 2em 2em 0 1em;
   border-radius: 10px;

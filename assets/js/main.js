@@ -222,25 +222,27 @@
       $submit = document.querySelectorAll('#contact-form input[type="submit"]')[0],
       $message;
 
-    var queryParams = window.location.search;
+    if ($form) {
+      var queryParams = window.location.search;
 
-    $message = document.createElement('span');
-    $message.classList.add('message');
-    $form.appendChild($message);
+      $message = document.createElement('span');
+      $message.classList.add('message');
+      $form.appendChild($message);
 
-    $message._show = function (type, text) {
-      $message.innerHTML = text;
-      $message.classList.add(type);
-      $message.classList.add('visible');
-    };
+      $message._show = function (type, text) {
+        $message.innerHTML = text;
+        $message.classList.add(type);
+        $message.classList.add('visible');
+      };
 
-    $message._hide = function() {
-      $message.classList.remove('visible');
-    };
+      $message._hide = function() {
+        $message.classList.remove('visible');
+      };
 
-    if (queryParams === '?submitted=true') {
-      $submit.disabled = true;
-      $message._show('success', 'Thank you!');
+      if (queryParams === '?submitted=true') {
+        $submit.disabled = true;
+        $message._show('success', 'Thank you!');
+      }
     }
   });
 
