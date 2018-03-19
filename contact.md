@@ -32,7 +32,7 @@ permalink: /contact
 
 <section style="margin-top: 4em;">
   <h2 class="align-center">Get in touch</h2>
-  <form id="contact-form" method="post" action="https://formspree.io/nikamirulmukmeen@gmail.com">
+  <form id="contact-form" method="post" action="https://formspree.io/info@nafarch.com">
     <div class="field half first">
       <input type="text" name="firstname" id="firstname" placeholder="First Name *" />
     </div>
