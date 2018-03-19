@@ -10,18 +10,19 @@ permalink: /experiences
       <p>1</p>
     </div>
     <div class="cd-timeline-content">
-      <h2>Integrated Commercial Complex (ICC) in KL by 1Malaysia Development Bhd joint venture with DBKL</h2>
+      <h2>KL Eco City by SP Setia Bhd.</h2>
       <span class="image fit">
-        <img data-src="images/integrated-commercial-complex/thumbnail.jpg" alt="Integrated Commercial Complex (ICC) in KL by 1Malaysia Development Bhd joint venture with DBKL" />
+        <img data-src="images/kl-eco-city/pic01.jpg" alt="Semi-Detached renovation at Damansara Jaya" />
       </span>
       <p>
-        A relocation project of Pasar Baru Bukit Bintang, to allow for TRX development. Contract value of RM60 mil.
+        Mixed Development consists of 4 office towers, 12 boutique offices, 3 serviced apartments, a hotel & retail
+        mall. Contract value of RM4 bil.
       </p>
       <span class="cd-date">
         <h3>
-          GARIS ARCHITECT SDN BHD<br />
+          GDP ARCHITECTS SDN BHD<br />
           PROJECT ARCHITECT<br />
-          MAY '11 - JAN '17
+          DEC '09 - APR '11
         </h3>
       </span>
     </div>
@@ -53,19 +54,18 @@ permalink: /experiences
       <p>3</p>
     </div>
     <div class="cd-timeline-content">
-      <h2>KL Eco City by SP Setia Bhd.</h2>
+      <h2>Integrated Commercial Complex (ICC) in KL by 1Malaysia Development Bhd joint venture with DBKL</h2>
       <span class="image fit">
-        <img data-src="images/kl-eco-city/pic01.jpg" alt="Semi-Detached renovation at Damansara Jaya" />
+        <img data-src="images/integrated-commercial-complex/thumbnail.jpg" alt="Integrated Commercial Complex (ICC) in KL by 1Malaysia Development Bhd joint venture with DBKL" />
       </span>
       <p>
-        Mixed Development consists of 4 office towers, 12 boutique offices, 3 serviced apartments, a hotel & retail
-        mall. Contract value of RM4 bil.
+        A relocation project of Pasar Baru Bukit Bintang, to allow for TRX development. Contract value of RM60 mil.
       </p>
       <span class="cd-date">
         <h3>
-          GDP ARCHITECTS SDN BHD<br />
+          GARIS ARCHITECT SDN BHD<br />
           PROJECT ARCHITECT<br />
-          DEC '09 - APR '11
+          MAY '11 - JAN '17
         </h3>
       </span>
     </div>
