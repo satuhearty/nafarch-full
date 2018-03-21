@@ -2,10 +2,16 @@
 layout: work
 title: "Tamarind Square"
 subtitle: "By Tujuan Gemilang Sdn Bhd"
+level: garis
 image: /images/tamarind-square/thumbnail.jpg
-date: 2014-01-01 12:00:00 -0400
-permalink: projects/:title
-categories: experiences
+timeline-title: "Tamarind Square in Cyberjaya by Tujuan Gemilang Sdn Bhd."
+timeline-subtitle: "A commercial development comprising retail, offices & a serviced apartment block. A new 
+                    architectural approach towards tropical retail experience in Malaysia. Contract value of RM220 mil."
+timeline-year: 2014
+timeline-image: images/tamarind-square/pic12.jpg
+date: 2014-02-01 12:00:00 -0400
+permalink: works/:title
+categories: experiences key-project
 ---
 
 <section>

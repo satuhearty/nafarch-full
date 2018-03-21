@@ -8,9 +8,11 @@
 {% include header.html %}
 
 <section>
-  <p>
-    <strong><a href="{{ site.baseurl }}/works" class="dotted">Works</a> / {{page.title}}</strong>
-  </p>
+  {% if post.categories contains 'works' %}
+    <p>
+      <strong><a href="{{ site.baseurl }}/works" class="dotted">Works</a> / {{page.title}}</strong>
+    </p>
+  {% endif %}
   <h1 class="header">{{page.title}}</h1>
 </section>
 

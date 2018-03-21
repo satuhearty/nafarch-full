@@ -75,6 +75,9 @@
   &.cd-index {
     background: _palette(accent1);
     color: _palette(bg);
+    &.key-project {
+      background: _palette(accent6);
+    }
     p {
       margin: 0;
       padding: 8px 0 0 0;
@@ -89,6 +92,15 @@
   }
   &.cd-location {
     background: #f0ca45;
+  }
+  &.is-hidden {
+    visibility: hidden;
+  }
+  &.bounce-in {
+    visibility: visible;
+    -webkit-animation: cd-bounce-1 0.6s;
+    -moz-animation: cd-bounce-1 0.6s;
+    animation: cd-bounce-1 0.6s;
   }
 }
 
@@ -107,15 +119,43 @@
       }
     }
   }
-  .cssanimations .cd-timeline-img {
-    &.is-hidden {
-      visibility: hidden;
+}
+
+.cd-timeline-year {
+  text-align: center;
+  position: relative;
+  margin-bottom: 10em;
+  h1 {
+    width: 25%;
+    margin: 0 auto;
+    padding: 0.5em;
+    background: _palette(accent1);
+    border-radius: 50%;
+    color: _palette(bg);
+    position: absolute;
+    left: 38%;
+    box-shadow: 0 0 0 4px #ffffff, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+  }
+  &.small-margin {
+    margin-bottom: 6em;
+  }
+}
+
+@include breakpoint(medium) {
+  .cd-timeline-year {
+    &.small-margin {
+      margin-bottom: 8em;
     }
-    &.bounce-in {
-      visibility: visible;
-      -webkit-animation: cd-bounce-1 0.6s;
-      -moz-animation: cd-bounce-1 0.6s;
-      animation: cd-bounce-1 0.6s;
+  }
+}
+
+@include breakpoint(small) {
+  .cd-timeline-year {
+    h1 {
+      width: 35%;
+    }
+    &.small-margin {
+      margin-bottom: 8em;
     }
   }
 }
@@ -189,13 +229,17 @@
   background: _palette(accent1);
   border-radius: 0.25em;
   padding: 1em;
+  &.key-project {
+    background: _palette(accent6);
+  }
   &::after {
     clear: both;
     content: "";
     display: table;
   }
-  h2, p {
+  h3, p {
     color: _palette(bg);
+    margin-bottom: 1em;
   }
   p, .cd-read-more, .cd-date {
     font-size: 13px;
@@ -214,6 +258,14 @@
     background: #acb7c0;
     color: #ffffff;
     border-radius: 0.25em;
+  }
+  .cd-date {
+    h3 {
+      color: _palette(bg);
+    }
+  }
+  .image {
+    margin: 0;
   }
 }
 
@@ -237,6 +289,15 @@
     width: 0;
     border: 7px solid transparent;
     border-right: 7px solid #ffffff;
+  }
+  &.is-hidden {
+    visibility: hidden;
+  }
+  &.bounce-in {
+    visibility: visible;
+    -webkit-animation: cd-bounce-2 0.6s;
+    -moz-animation: cd-bounce-2 0.6s;
+    animation: cd-bounce-2 0.6s;
   }
 }
 
@@ -268,6 +329,11 @@
       border-color: transparent;
       border-left-color: _palette(accent1);
     }
+    &.key-project {
+      &::before {
+        border-left-color: _palette(accent6);
+      }
+    }
     .cd-read-more {
       float: left;
     }
@@ -278,7 +344,9 @@
       top: 6px;
       font-size: 16px;
       font-size: 1rem;
-      color: _palette(fg);
+      h3 {
+        color: _palette(fg);
+      }
     }
   }
   .cd-timeline-block.right .cd-timeline-content {
@@ -289,6 +357,11 @@
       right: 100%;
       border-color: transparent;
       border-right-color: _palette(accent1);
+      &.key-project {
+        &::before {
+          border-right-color: _palette(accent6);
+        }
+      }
     }
     .cd-read-more {
       float: right;
@@ -297,17 +370,6 @@
       left: auto;
       right: 122%;
       text-align: right;
-    }
-  }
-  .cssanimations .cd-timeline-content {
-    &.is-hidden {
-      visibility: hidden;
-    }
-    &.bounce-in {
-      visibility: visible;
-      -webkit-animation: cd-bounce-2 0.6s;
-      -moz-animation: cd-bounce-2 0.6s;
-      animation: cd-bounce-2 0.6s;
     }
   }
 }

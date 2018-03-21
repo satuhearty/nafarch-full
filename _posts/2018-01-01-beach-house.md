@@ -3,8 +3,13 @@ layout: work
 title: "Beach House"
 subtitle: Schematic Stage
 image: /images/beach-house/thumbnail.jpg
-date: 2017-12-01 12:00:00 -0400
-permalink: projects/:title
+level: nafarch
+timeline-title: "Beach House in Marang, Terengganu."
+timeline-subtitle: "A modern interpretation of the traditional Terengganu house for a holiday retreat experience."
+timeline-year: 2017
+timeline-image: images/beach-house/pic01.jpg
+date: 2018-01-01 12:00:00 -0400
+permalink: works/:title
 categories: works featured
 ---
 

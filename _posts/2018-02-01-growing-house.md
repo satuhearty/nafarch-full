@@ -2,9 +2,14 @@
 layout: work
 title: "Growing House"
 subtitle: "Design Development Stage"
+level: nafarch
 image: /images/growing-house/thumbnail.jpg
-date: 2010-01-01 12:00:00 -0400
-permalink: projects/:title
+timeline-title: "Bungalow in Putrajaya."
+timeline-subtitle: "Multi-family intended living."
+timeline-year: 2018
+timeline-image: images/growing-house/pic01.jpg
+date: 2018-02-01 12:00:00 -0400
+permalink: works/:title
 categories: works featured
 ---
 
@@ -16,6 +21,7 @@ categories: works featured
       <span class="image fit"><img src="{{ site.baseurl }}/images/growing-house/pic03.jpg" alt="" /></span>
       <span class="image fit"><img src="{{ site.baseurl }}/images/growing-house/pic04.jpg" alt="" /></span>
       <span class="image fit"><img src="{{ site.baseurl }}/images/growing-house/pic05.jpg" alt="" /></span>
+      <span class="image fit"><img src="{{ site.baseurl }}/images/growing-house/pic06.jpg" alt="" /></span>
     </div>
     <div class="4u$ 12u$(medium) important(medium)">
       <blockquote>

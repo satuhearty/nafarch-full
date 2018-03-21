@@ -1,0 +1,20 @@
+- id: archicentre
+  company: "Archicentre Sdn Bhd"
+  title: "Project Architect"
+  date: "AUG '09 - NOV '09"
+- id: gdp
+  company: "GDP Architects Sdn Bhd"
+  title: "Project Architect"
+  date: "DEC '09 - APR '11"
+- id: garis
+  company: "Garis Architects Sdn Bhd"
+  title: "Project Architect"
+  date: "MAY '11 - JAN '17"
+- id: suhailazlan
+  company: "Artikek Suhail Azlan"
+  title: "Associate"
+  date: "FEB '17 - DEC '17"
+- id: nafarch
+  company: "NAF Architect"
+  title: "Principal"
+  date: "JAN '18 - Present"

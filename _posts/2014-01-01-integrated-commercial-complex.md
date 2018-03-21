@@ -1,11 +1,17 @@
 ---
 layout: work
-title: "Integrated Commercial Complex (ICC)"
+title: "Integrated Commercial Complex"
 subtitle: "Kuala Lumpur"
+level: garis
 image: /images/integrated-commercial-complex/thumbnail.jpg
-date: 2013-12-01 12:00:00 -0400
-permalink: projects/:title
-categories: experiences
+timeline-title: "Integrated Commercial Complex (ICC) in KL by 1Malaysia Development Bhd joint venture with DBKL."
+timeline-subtitle: "A relocation project of Pasar Baru Bukit Bintang, to allow for TRX development. Contract value of
+                    RM60 mil."
+timeline-year: 2014
+timeline-image: images/integrated-commercial-complex/thumbnail.jpg
+date: 2014-01-01 12:00:00 -0400
+permalink: works/:title
+categories: experiences key-project
 ---
 
 <section>

@@ -2116,7 +2116,7 @@ button,
     .tiles article.style5 > .image:before {
       background-color: #ae85ca; }
     .tiles article.style6 > .image:before {
-      background-color: #8499e7; }
+      background-color: #6d9dd2; }
     body:not(.is-touch) .tiles article:hover > .image {
       -moz-transform: scale(1.05);
       -webkit-transform: scale(1.05);
@@ -2311,6 +2311,8 @@ button,
   .cd-timeline-img.cd-index {
     background: #31475F;
     color: #ffffff; }
+    .cd-timeline-img.cd-index.key-project {
+      background: #6d9dd2; }
     .cd-timeline-img.cd-index p {
       margin: 0;
       padding: 8px 0 0 0;
@@ -2321,6 +2323,13 @@ button,
     background: #c03b44; }
   .cd-timeline-img.cd-location {
     background: #f0ca45; }
+  .cd-timeline-img.is-hidden {
+    visibility: hidden; }
+  .cd-timeline-img.bounce-in {
+    visibility: visible;
+    -webkit-animation: cd-bounce-1 0.6s;
+    -moz-animation: cd-bounce-1 0.6s;
+    animation: cd-bounce-1 0.6s; }
 
 @media only screen and (min-width: 960px) {
   .cd-timeline-img {
@@ -2332,15 +2341,32 @@ button,
     -webkit-transform: translateZ(0);
     -webkit-backface-visibility: hidden; }
     .cd-timeline-img.cd-index p {
-      padding: 15px 0 0 0; }
+      padding: 15px 0 0 0; } }
+.cd-timeline-year {
+  text-align: center;
+  position: relative;
+  margin-bottom: 10em; }
+  .cd-timeline-year h1 {
+    width: 25%;
+    margin: 0 auto;
+    padding: 0.5em;
+    background: #31475F;
+    border-radius: 50%;
+    color: #ffffff;
+    position: absolute;
+    left: 38%;
+    box-shadow: 0 0 0 4px #ffffff, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05); }
+  .cd-timeline-year.small-margin {
+    margin-bottom: 6em; }
 
-  .cssanimations .cd-timeline-img.is-hidden {
-    visibility: hidden; }
-  .cssanimations .cd-timeline-img.bounce-in {
-    visibility: visible;
-    -webkit-animation: cd-bounce-1 0.6s;
-    -moz-animation: cd-bounce-1 0.6s;
-    animation: cd-bounce-1 0.6s; } }
+@media screen and (max-width: 980px) {
+  .cd-timeline-year.small-margin {
+    margin-bottom: 8em; } }
+@media screen and (max-width: 736px) {
+  .cd-timeline-year h1 {
+    width: 35%; }
+  .cd-timeline-year.small-margin {
+    margin-bottom: 8em; } }
 @-webkit-keyframes cd-bounce-1 {
   0% {
     opacity: 0;
@@ -2386,12 +2412,15 @@ button,
   background: #31475F;
   border-radius: 0.25em;
   padding: 1em; }
+  .cd-timeline-content.key-project {
+    background: #6d9dd2; }
   .cd-timeline-content::after {
     clear: both;
     content: "";
     display: table; }
-  .cd-timeline-content h2, .cd-timeline-content p {
-    color: #ffffff; }
+  .cd-timeline-content h3, .cd-timeline-content p {
+    color: #ffffff;
+    margin-bottom: 1em; }
   .cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
     font-size: 13px;
     font-size: 0.8125rem; }
@@ -2406,6 +2435,10 @@ button,
     background: #acb7c0;
     color: #ffffff;
     border-radius: 0.25em; }
+  .cd-timeline-content .cd-date h3 {
+    color: #ffffff; }
+  .cd-timeline-content .image {
+    margin: 0; }
 
 .no-touch .cd-timeline-content .cd-read-more:hover {
   background-color: #bac4cb; }
@@ -2424,6 +2457,13 @@ button,
   width: 0;
   border: 7px solid transparent;
   border-right: 7px solid #ffffff; }
+.cd-timeline-content.is-hidden {
+  visibility: hidden; }
+.cd-timeline-content.bounce-in {
+  visibility: visible;
+  -webkit-animation: cd-bounce-2 0.6s;
+  -moz-animation: cd-bounce-2 0.6s;
+  animation: cd-bounce-2 0.6s; }
 
 @media only screen and (min-width: 768px) {
   .cd-timeline-content h2 {
@@ -2445,6 +2485,8 @@ button,
       left: 100%;
       border-color: transparent;
       border-left-color: #31475F; }
+    .cd-timeline-content.key-project::before {
+      border-left-color: #6d9dd2; }
     .cd-timeline-content .cd-read-more {
       float: left; }
     .cd-timeline-content .cd-date {
@@ -2453,8 +2495,9 @@ button,
       left: 122%;
       top: 6px;
       font-size: 16px;
-      font-size: 1rem;
-      color: #585858; }
+      font-size: 1rem; }
+      .cd-timeline-content .cd-date h3 {
+        color: #585858; }
 
   .cd-timeline-block.right .cd-timeline-content {
     float: right; }
@@ -2464,20 +2507,14 @@ button,
       right: 100%;
       border-color: transparent;
       border-right-color: #31475F; }
+      .cd-timeline-block.right .cd-timeline-content::before.key-project::before {
+        border-right-color: #6d9dd2; }
     .cd-timeline-block.right .cd-timeline-content .cd-read-more {
       float: right; }
     .cd-timeline-block.right .cd-timeline-content .cd-date {
       left: auto;
       right: 122%;
-      text-align: right; }
-
-  .cssanimations .cd-timeline-content.is-hidden {
-    visibility: hidden; }
-  .cssanimations .cd-timeline-content.bounce-in {
-    visibility: visible;
-    -webkit-animation: cd-bounce-2 0.6s;
-    -moz-animation: cd-bounce-2 0.6s;
-    animation: cd-bounce-2 0.6s; } }
+      text-align: right; } }
 @media only screen and (min-width: 960px) {
   /* inverse bounce effect on even content blocks */
   .cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {

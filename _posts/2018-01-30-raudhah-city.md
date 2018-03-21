@@ -2,9 +2,14 @@
 layout: work
 title: "Raudhah City"
 subtitle: "Schematic Stage"
+level: nafarch
 image: /images/raudhah-city/thumbnail.jpg
-date: 2010-01-01 12:00:00 -0400
-permalink: projects/:title
+timeline-title: "Landed Strata & Mixed Development in Cyberjaya by Raudhah City Sdn Bhd."
+timeline-subtitle: "Masterplan proposal."
+timeline-year: 2018
+timeline-image: images/raudhah-city/pic01.jpg
+date: 2018-01-30 12:00:00 -0400
+permalink: works/:title
 categories: works featured
 ---
 

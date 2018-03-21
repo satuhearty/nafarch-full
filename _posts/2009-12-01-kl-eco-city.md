@@ -2,10 +2,16 @@
 layout: work
 title: "KL Eco City"
 subtitle: "By SP Setia Bhd"
+level: gdp
 image: /images/kl-eco-city/thumbnail.jpg
+timeline-title: "KL Eco City by SP Setia Bhd."
+timeline-subtitle: "Mixed Development consists of 4 office towers, 12 boutique offices, 3 serviced apartments, a hotel
+                    & retail mall. Contract value of RM4 bil."
+timeline-year: 2009
+timeline-image: images/kl-eco-city/thumbnail.jpg
 date: 2009-12-01 12:00:00 -0400
-permalink: projects/:title
-categories: experiences
+permalink: works/:title
+categories: experiences key-project
 ---
 
 <section>

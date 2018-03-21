@@ -2,9 +2,14 @@
 layout: work
 title: "Brainy Bunch Montessori Kindergarten"
 subtitle: "Design Development Stage"
+level: nafarch
 image: /images/brainy-bunch-montessori-kindergarten/thumbnail.jpg
-date: 2010-01-01 12:00:00 -0400
-permalink: projects/:title
+timeline-title: "Kindergarten in Ampang by Brainy Bunch Sdn Bhd."
+timeline-subtitle: "Brainy Bunch's first purpose built kindergarten in Malaysia."
+timeline-year: 2018
+timeline-image: images/brainy-bunch-montessori-kindergarten/pic01.jpg
+date: 2018-01-15 12:00:00 -0400
+permalink: works/:title
 categories: works featured
 ---
 
