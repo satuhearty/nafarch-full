@@ -1,8 +1,3 @@
 ---
-layout: default
-title: Home
+layout: landing
 ---
-
-{% include tiles.html %}
-{% include services.html %}
-{% include clients.html %}

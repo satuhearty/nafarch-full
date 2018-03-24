@@ -1,0 +1,69 @@
+<footer id="footer">
+  <ul class="icons">
+    {% if site.twitter_url %}
+    <li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+    {% endif %}
+    {% if site.googleplus_url %}
+    <li><a href="{{ site.googleplus_url }}" class="icon fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+    {% endif %}
+    {% if site.facebook_url %}
+    <li><a href="{{ site.facebook_url }}" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+    {% endif %}
+    {% if site.instagram_url %}
+    <li><a href="{{ site.instagram_url }}" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+    {% endif %}
+    {% if site.pinterest_url %}
+    <li><a href="{{ site.pinterest_url }}" class="icon fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+    {% endif %}
+    {% if site.500px_url %}
+    <li><a href="{{ site.500px_url }}" class="icon fa-500px" target="_blank"><span class="label">500px</span></a></li>
+    {% endif %}
+    {% if site.gitlab_url %}
+    <li><a href="{{ site.gitlab_url }}" class="icon fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+    {% endif %}
+    {% if site.github_url %}
+    <li><a href="{{ site.github_url }}" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+    {% endif %}
+    {% if site.slack_url %}
+    <li><a href="{{ site.slack_url }}" class="icon fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+    {% endif %}
+    {% if site.linkedin_url %}
+    <li><a href="{{ site.linkedin_url }}" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+    {% endif %}
+  </ul>
+  <ul class="copyright">
+    <li>
+      &copy; 2018 {{ site.title }}.<br /><br />
+      Design by <a href="https://www.satuhearty.com" target="_blank">Satuhearty</a>
+    </li>
+  </ul>
+</footer>
+
+<!--[if lte IE 8]><script src="{{ 'assets/js/ie/respond.min.js' | relative_url }}"></script><![endif]-->
+<script src="{{ 'assets/js/landing.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/jquery.min.js' | relative_url }}"></script>
+<script>
+  !function() {
+    var t;
+    if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+      t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+      t.factory = function(e) {
+        return function() {
+          var n;
+          return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+        };
+      }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e, n, o, i;
+      e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+        o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+        n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+    });
+  }();
+  drift.SNIPPET_VERSION = '0.3.1';
+  drift.load('r2zk77rieh8t');
+</script>
+
+</body>
+</html>

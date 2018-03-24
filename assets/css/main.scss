@@ -1,9 +1,9 @@
 ---
 ---
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/skel';
+@import 'site/libs/vars';
+@import 'site/libs/functions';
+@import 'site/libs/mixins';
+@import 'site/libs/skel';
 @import 'font-awesome.min.css';
 
 @font-face {
@@ -56,29 +56,29 @@
 
 // Base.
 
-@import 'base/page';
-@import 'base/typography';
+@import 'site/base/page';
+@import 'site/base/typography';
 
 // Component.
 
-@import 'components/section';
-@import 'components/icon';
-@import 'components/list';
-@import 'components/form';
-@import 'components/box';
-@import 'components/image';
-@import 'components/table';
-@import 'components/button';
-@import 'components/tiles';
-@import 'components/slick';
-@import 'components/timeline';
-@import 'components/clients';
-@import 'components/random';
+@import 'site/components/section';
+@import 'site/components/icon';
+@import 'site/components/list';
+@import 'site/components/form';
+@import 'site/components/box';
+@import 'site/components/image';
+@import 'site/components/table';
+@import 'site/components/button';
+@import 'site/components/tiles';
+@import 'site/components/slick';
+@import 'site/components/timeline';
+@import 'site/components/clients';
+@import 'site/components/random';
 
 // Layout.
 
-@import 'layout/header';
-@import 'layout/menu';
-@import 'layout/main';
-@import 'layout/footer';
-@import 'layout/wrapper';
+@import 'site/layout/header';
+@import 'site/layout/menu';
+@import 'site/layout/main';
+@import 'site/layout/footer';
+@import 'site/layout/wrapper';
