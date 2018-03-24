@@ -237,6 +237,7 @@ a {
   -ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
   transition: border-bottom-color 0.2s ease, color 0.2s ease;
   border-bottom: dotted 1px rgba(255, 255, 255, 0.25);
+  padding-bottom: 2px;
   color: #1cb495;
   text-decoration: none; }
   a:hover {
@@ -450,7 +451,8 @@ label {
   display: block;
   font-size: 0.9em;
   font-weight: 900;
-  margin: 0 0 1em 0; }
+  margin: 1em 0 0 0 !important;
+  width: 100%; }
 
 @-moz-keyframes focus {
   0% {
@@ -759,6 +761,7 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
+  flex-wrap: wrap;
   position: relative; }
   #signup-form input[type="text"],
   #signup-form input[type="password"],

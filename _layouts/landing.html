@@ -7,15 +7,25 @@
 <header id="header">
   <h1>{{ site.title }}</h1>
   <p>
-    Welcome to NAF Architect.
+    Welcome to NAF Architect.<br/>
+    Subscribe to our mailing list.
   </p>
 </header>
 
 <form id="signup-form" method="post">
   <input type="email" name="email" id="email" placeholder="Email Address" />
   <input type="submit" value="Subscribe" />
+  <span class="message"></span>
+  <input type="checkbox" id="newsletter" name="newsletter" checked>
+  <label for="newsletter">I would also like to receive newsletters.</label>
   <input type="hidden" name="_subject" value="Mailing List Subscribe" />
 </form>
+
+<h3>
+  <a href="home">
+    Enter here <i class="fa fa-arrow-right"></i>
+  </a>
+</h3>
 
 {% include footer_landing.html %}
 
