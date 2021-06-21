@@ -1,33 +1,45 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 
 <html>
-{% include head_landing.html %}
-<body>
+  {% include head_landing.html %}
+  <body>
+    <header id="header">
+      <h1>{{ site.title }}</h1>
+      <p>
+        Welcome to NAF Architect.<br />
+        Enter your email below to subscribe to our mailing list.
+      </p>
+    </header>
 
-<header id="header">
-  <h1>{{ site.title }}</h1>
-  <p>
-    Welcome to NAF Architect.<br/>
-    Enter your email below to subscribe to our mailing list.
-  </p>
-</header>
+    <form id="signup-form" method="post">
+      <input type="email" name="email" id="email" placeholder="Email Address" />
+      <input type="submit" value="Subscribe" />
+      <span class="message"></span>
+      <input type="checkbox" id="newsletter" name="newsletter" checked />
+      <label for="newsletter">I would also like to receive newsletters.</label>
+      <input type="hidden" name="_subject" value="Mailing List Subscribe" />
+    </form>
 
-<form id="signup-form" method="post">
-  <input type="email" name="email" id="email" placeholder="Email Address" />
-  <input type="submit" value="Subscribe" />
-  <span class="message"></span>
-  <input type="checkbox" id="newsletter" name="newsletter" checked>
-  <label for="newsletter">I would also like to receive newsletters.</label>
-  <input type="hidden" name="_subject" value="Mailing List Subscribe" />
-</form>
+    <h3>
+      <a href="home"> Enter here <i class="fa fa-arrow-right"></i> </a>
+    </h3>
 
-<h3>
-  <a href="home">
-    Enter here <i class="fa fa-arrow-right"></i>
-  </a>
-</h3>
+    <div id="announcement" class="modal-window">
+      <div>
+        <a href="#" title="Close" class="modal-close"
+          ><i class="fa fa-close"></i
+        ></a>
+        <p class="modal-content">
+          NAF Architect has grown to HXN Architects. Please visit
+          <a href="https://hxnarchitects.com" target="_blank"
+            >www.hxnarchitects.com</a
+          >
+          for more enquiries and information.<br />
+          Thank you.
+        </p>
+      </div>
+    </div>
 
-{% include footer_landing.html %}
-
-</body>
+    {% include footer_landing.html %}
+  </body>
 </html>

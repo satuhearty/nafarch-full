@@ -1,7 +1,7 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 
 <html>
-<head>
+  <head>
   <title>NAF Architect</title>
 
   <meta charset="utf-8" />
@@ -35,32 +35,45 @@
   <!--[if lte IE 9]><link rel="stylesheet" href="/nafarch-full/assets/css/ie9.css" /><![endif]-->
 </head>
 
-<body>
+  <body>
+    <header id="header">
+      <h1>NAF Architect</h1>
+      <p>
+        Welcome to NAF Architect.<br />
+        Enter your email below to subscribe to our mailing list.
+      </p>
+    </header>
 
-<header id="header">
-  <h1>NAF Architect</h1>
-  <p>
-    Welcome to NAF Architect.<br/>
-    Enter your email below to subscribe to our mailing list.
-  </p>
-</header>
+    <form id="signup-form" method="post">
+      <input type="email" name="email" id="email" placeholder="Email Address" />
+      <input type="submit" value="Subscribe" />
+      <span class="message"></span>
+      <input type="checkbox" id="newsletter" name="newsletter" checked />
+      <label for="newsletter">I would also like to receive newsletters.</label>
+      <input type="hidden" name="_subject" value="Mailing List Subscribe" />
+    </form>
 
-<form id="signup-form" method="post">
-  <input type="email" name="email" id="email" placeholder="Email Address" />
-  <input type="submit" value="Subscribe" />
-  <span class="message"></span>
-  <input type="checkbox" id="newsletter" name="newsletter" checked>
-  <label for="newsletter">I would also like to receive newsletters.</label>
-  <input type="hidden" name="_subject" value="Mailing List Subscribe" />
-</form>
+    <h3>
+      <a href="home"> Enter here <i class="fa fa-arrow-right"></i> </a>
+    </h3>
 
-<h3>
-  <a href="home">
-    Enter here <i class="fa fa-arrow-right"></i>
-  </a>
-</h3>
+    <div id="announcement" class="modal-window">
+      <div>
+        <a href="#" title="Close" class="modal-close"
+          ><i class="fa fa-close"></i
+        ></a>
+        <p class="modal-content">
+          NAF Architect has grown to HXN Architects. Please visit
+          <a href="https://hxnarchitects.com" target="_blank"
+            >www.hxnarchitects.com</a
+          >
+          for more enquiries and information.<br />
+          Thank you.
+        </p>
+      </div>
+    </div>
 
-<footer id="footer">
+    <footer id="footer">
   <ul class="icons">
     
     
@@ -75,7 +88,7 @@
   </ul>
   <ul class="copyright">
     <li>
-      &copy; 2018 NAF Architect.<br /><br />
+      &copy; 2021 NAF Architect.<br /><br />
       Design by <a href="https://www.satuhearty.com" target="_blank">Satuhearty</a>
     </li>
   </ul>
@@ -109,6 +122,5 @@
 
 </body>
 </html>
-
-</body>
+  </body>
 </html>
